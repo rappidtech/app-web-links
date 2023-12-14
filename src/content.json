@@ -1,0 +1,141 @@
+{
+    "Header": {
+        "logo": "./img/svg/logo.svg",
+        "planBanner": {
+            "icon": "./img/svg/flash.svg",
+            "text": "Probar plan estándar"
+        },
+        "avatar": "./img/icons/Avatar.png",
+        "pages": [
+            "Fondo",
+            "Header",
+            "Links",
+            "Redes"
+        ],
+        "account": [
+            "Tu RAppID Links no está activo. Haga clic en el enlace de verificación que le enviamos al email (verifica el Spam)",
+            "Tu RAppID Links está activo"
+        ]
+    },
+    "Temas": {
+        "title":"TEMAS PREDETERMINADOS",
+        "subtitle":"Elige una de nuestras plantillas predeterminadas"
+    },
+    "Carrusel1": [
+        {
+            "img": "./img/icons/fondo1.png",
+            "title": "Color solido 1",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo2.png",
+            "title": "Color solido 2",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo3.png",
+            "title": "Gradiente vertical 1",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo4.png",
+            "title": "Gradiente vertical 2",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo5.png",
+            "title": "Gradiente horizontal 1",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo6.png",
+            "title": "Gradiente horizontal 2",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo7.png",
+            "title": "Abstracto 1",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo8.png",
+            "title": "Abstracto 2",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo9.png",
+            "title": "Abstracto 3",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo10.png",
+            "title": "Abstracto 4",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/fondo11.png",
+            "title": "Abstracto 5",
+            "text": ""
+        }
+    ],
+    "Personaliza": {
+        "title":"PERSONALIZA TU TEMA",
+        "subtitle":"Elige una plantilla y edita según tus preferencias"
+    },
+    "Carrusel2": [
+        {
+            "img": "./img/icons/gris1.png",
+            "title": "Color Solido",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/gris2.png",
+            "title": "Gradiente vertical",
+            "text": ""
+        },
+        {
+            "img": "./img/icons/gris3.png",
+            "title": "Gradiente horizontal",
+            "text": ""
+        }
+    ],
+    "Views": [
+        {
+            "src": "./img/svg/mobile.svg",
+            "alt": "mobile"
+        },
+        {
+            "src": "./img/svg/tablet.svg",
+            "alt": "tablet"
+        },
+        {
+            "src": "./img/svg/laptop.svg",
+            "alt": "laptop"
+        }
+    ],
+    "Sidebar": {
+        "btn":"Crear un nuevo RAppID Links",
+        "menu": {
+            "text": [
+                "Mi Cuenta",
+                "Billetera",
+                "Planes"
+            ],
+            "icons":[
+                "./img/svg/user.svg",
+                "./img/svg/wallet.svg",
+                "./img/svg/flash.svg"
+            ]
+        },
+        "bottom":{
+            "text":["Cerrar Sesión"],
+            "iconCerrar": ["./img/svg/logout.svg"]
+        }
+    },
+    "Theme": {
+        "lightImg": "./img/svg/lightw.svg",
+        "darkImg": "./img/svg/darkw.svg",
+        "colorOn": "#A84AC9",
+        "colorOff": "#B9B9B9"
+    }
+}

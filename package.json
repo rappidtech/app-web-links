@@ -1,38 +1,67 @@
 {
-  "name": "app-web",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+    "name": "app-web",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^6.5.1",
+        "@fortawesome/free-brands-svg-icons": "^6.5.1",
+        "@fortawesome/react-fontawesome": "^0.2.0",
+        "@trendyol-js/react-carousel": "^3.0.2",
+        "@types/firebase": "^3.2.1",
+        "@types/node": "^15.14.9",
+        "@types/react": "^17.0.71",
+        "@types/react-dom": "^17.0.25",
+        "@types/react-router-dom": "^5.3.3",
+        "@types/styled-components": "^5.1.32",
+        "antd": "^4.24.15",
+        "axios": "^0.21.4",
+        "dotenv": "^16.3.1",
+        "firebase": "^10.7.0",
+        "framer-motion": "^10.16.12",
+        "i18next": "^19.9.2",
+        "i18next-browser-languagedetector": "^6.1.8",
+        "i18next-xhr-backend": "^3.2.2",
+        "react": "^18.2.0",
+        "react-awesome-reveal": "^3.8.1",
+        "react-bootstrap": "^2.9.1",
+        "react-cssfx-loading": "^2.1.0",
+        "react-dom": "^18.2.0",
+        "react-i18next": "^11.18.6",
+        "react-pick-color": "^2.0.0",
+        "react-router-dom": "^6.20.0",
+        "react-scripts": "5.0.1",
+        "react-slick": "^0.29.0",
+        "slick-carousel": "^1.8.1",
+        "styled-components": "^5.3.11",
+        "typescript": "^4.9.5"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-prettier": "^5.0.1",
+        "prettier": "^3.1.1"
+    }
 }
